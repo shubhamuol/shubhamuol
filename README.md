@@ -6,7 +6,3 @@
 😄 Pronouns: He.
 ⚡ Fun fact: I love solving puzzles and challenges, which drew me to data analysis and now to data science!
 
-<!---
-shubhamuol/shubhamuol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
